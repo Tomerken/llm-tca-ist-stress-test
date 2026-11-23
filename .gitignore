@@ -1,0 +1,37 @@
+# Python and local tools
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local archives and temporary files
+*.zip
+*.tar
+*.tar.gz
+*.tmp
+*.log
+
+# Old development artifacts
+IST_based_stress_test/archive/
+IST_based_stress_test/arcive/
+IST_based_stress_test/runs/archiv/
+IST_based_stress_test/runs/V*/
+IST_based_stress_test/runs/V_tmp/
+IST_based_stress_test/04_protocols/IST_text_condition_protocol_v*.csv
+
+# Keep only the final experiment run under runs/
+IST_based_stress_test/runs/*
+!IST_based_stress_test/runs/all_active_information_loss/
+!IST_based_stress_test/runs/all_active_information_loss/**
