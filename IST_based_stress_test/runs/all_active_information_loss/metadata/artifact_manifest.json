@@ -1,0 +1,52 @@
+{
+  "experiment_id": "all_active_information_loss",
+  "run_dir": "runs/all_active_information_loss",
+  "conditions": [
+    {
+      "name": "full",
+      "split": "train",
+      "generator": "full",
+      "text_filename": "IST_train_full_text.csv",
+      "embedding_filename": "train_full_embeddings.csv",
+      "train_model": true,
+      "evaluate": false,
+      "is_reference": false
+    },
+    {
+      "name": "full",
+      "split": "test",
+      "generator": "full",
+      "text_filename": "IST_test_full_text.csv",
+      "embedding_filename": "test_full_embeddings.csv",
+      "train_model": false,
+      "evaluate": true,
+      "is_reference": true
+    },
+    {
+      "name": "sparse",
+      "split": "test",
+      "generator": "sparse",
+      "text_filename": "IST_test_sparse_text.csv",
+      "embedding_filename": "test_sparse_embeddings.csv",
+      "train_model": false,
+      "evaluate": true,
+      "is_reference": false
+    },
+    {
+      "name": "general",
+      "split": "test",
+      "generator": "general",
+      "text_filename": "IST_test_general_text.csv",
+      "embedding_filename": "test_general_embeddings.csv",
+      "train_model": false,
+      "evaluate": true,
+      "is_reference": false
+    }
+  ],
+  "outputs": {
+    "text_dir": "text",
+    "embeddings_dir": "embeddings",
+    "results_dir": "results",
+    "metadata_dir": "metadata"
+  }
+}

@@ -1,0 +1,501 @@
+patient_id,text
+2000,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2001,I am a woman in my eighties. My blood pressure seemed normal. I have weakness in my arm.
+2002,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2003,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2004,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2005,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2006,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2007,I am a man in my eighties. My blood pressure seemed high. I am having trouble speaking clearly.
+2008,I am a woman in my eighties. My blood pressure seemed normal. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2009,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2010,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2011,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2012,"I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2013,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2014,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2015,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2016,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2017,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2018,I am a woman in my forties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2019,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my leg.
+2020,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2021,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly.
+2022,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2023,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2024,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my leg. I am having trouble speaking clearly.
+2025,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2026,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2027,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2028,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2029,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2030,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2031,I am a woman in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2032,I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2033,"I am a woman in my eighties. My blood pressure seemed high. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2034,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2035,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2036,I am a man in my fifties. My blood pressure seemed high.
+2037,I am a man in my sixties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2038,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2039,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2040,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2041,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2042,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2043,I am a woman in my fifties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2044,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2045,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2046,"I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2047,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2048,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2049,"I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Something else also feels wrong, but I cannot describe it clearly."
+2050,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2051,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2052,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2053,"I am a woman in my eighties. My blood pressure seemed high. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2054,"I am a man in my seventies. My blood pressure seemed high. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2055,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2056,"I am a man in my fifties. My blood pressure seemed high. Something else also feels wrong, but I cannot describe it clearly."
+2057,I am a man in my forties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2058,I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2059,I am a woman in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2060,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2061,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2062,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2063,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2064,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2065,I am a woman in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2066,I am a woman in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2067,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2068,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2069,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2070,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2071,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2072,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2073,"I am a woman in my sixties. My blood pressure seemed high. Something else also feels wrong, but I cannot describe it clearly."
+2074,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2075,I am a woman in my fifties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2076,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2077,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2078,I am a woman in my nineties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2079,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2080,I am a woman in my nineties. My blood pressure seemed high. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2081,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2082,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2083,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2084,I am a woman in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2085,"I am a woman in my seventies. My blood pressure seemed high. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2086,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my leg.
+2087,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2088,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face.
+2089,I am a woman in my eighties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2090,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2091,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2092,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2093,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2094,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2095,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2096,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2097,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2098,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2099,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly.
+2100,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2101,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2102,I am a woman in my sixties. My blood pressure seemed high. I am having trouble speaking clearly.
+2103,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2104,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2105,"I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2106,"I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Something else also feels wrong, but I cannot describe it clearly."
+2107,I am a man in my seventies. My blood pressure seemed high. I am having trouble speaking clearly.
+2108,I am a man in my sixties. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2109,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2110,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2111,I am a man in my forties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2112,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2113,I am a woman in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2114,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2115,I am a man in my seventies. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2116,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2117,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2118,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2119,I am a woman in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2120,"I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Something else also feels wrong, but I cannot describe it clearly."
+2121,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2122,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2123,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2124,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2125,I am a man in my fifties. My blood pressure seemed high. I have weakness in my arm.
+2126,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2127,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2128,I am a man in my forties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2129,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2130,I am a woman in my twenties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2131,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2132,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2133,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2134,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2135,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2136,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2137,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2138,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2139,"I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2140,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2141,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2142,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2143,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2144,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2145,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2146,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2147,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2148,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2149,I am a man in my forties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2150,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2151,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2152,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2153,I am a woman in my forties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm.
+2154,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2155,"I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. Something else also feels wrong, but I cannot describe it clearly."
+2156,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2157,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2158,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2159,I am a man in my sixties. My blood pressure seemed high.
+2160,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2161,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2162,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2163,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2164,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2165,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2166,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2167,"I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2168,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm.
+2169,I am a woman in my eighties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg.
+2170,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2171,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2172,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2173,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2174,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2175,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2176,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm.
+2177,I am a man in my seventies. My blood pressure seemed high. I have weakness in my leg.
+2178,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2179,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2180,I am a woman in my nineties. My blood pressure seemed high. I am having trouble speaking clearly.
+2181,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2182,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2183,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2184,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2185,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2186,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2187,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2188,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2189,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2190,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2191,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2192,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2193,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I feel generally disoriented or maybe unsteady.
+2194,I am a man in my sixties. My blood pressure seemed high. I am having trouble speaking clearly.
+2195,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2196,I am a man in my fifties. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2197,I am a man in my sixties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg.
+2198,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2199,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2200,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2201,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my leg.
+2202,I am a man in my fifties. My blood pressure seemed high. I am having trouble speaking clearly.
+2203,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2204,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2205,"I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2206,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I feel generally disoriented or maybe unsteady.
+2207,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2208,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm.
+2209,I am a man in my seventies. My blood pressure seemed high. I am having trouble speaking clearly.
+2210,I am a woman in my fifties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2211,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2212,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2213,"I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Something else also feels wrong, but I cannot describe it clearly."
+2214,I am a woman in my eighties. My blood pressure seemed high. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2215,I am a woman in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2216,I am a man in my fifties. My blood pressure seemed normal. I feel weakness in my face. I am having trouble speaking clearly.
+2217,I am a woman in my eighties. My blood pressure seemed high.
+2218,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2219,I am a woman in my eighties. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2220,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2221,I am a man in my fifties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2222,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2223,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2224,I am a woman in my eighties. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2225,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2226,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly.
+2227,"I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. Something else also feels wrong, but I cannot describe it clearly."
+2228,I am a woman in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2229,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2230,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2231,I am a woman in my fifties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2232,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly.
+2233,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2234,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2235,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2236,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2237,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2238,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2239,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2240,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2241,I am a woman in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2242,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2243,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2244,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2245,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2246,I am a woman in my eighties. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2247,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2248,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2249,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2250,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2251,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2252,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2253,"I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2254,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2255,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2256,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2257,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2258,"I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2259,I am a man in my fifties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2260,"I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2261,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2262,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2263,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2264,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2265,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2266,I am a man in my fifties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg.
+2267,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2268,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2269,"I am a man in my fifties. My blood pressure seemed high. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2270,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2271,I am a woman in my twenties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I feel generally disoriented or maybe unsteady.
+2272,I am a woman in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2273,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2274,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2275,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face.
+2276,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2277,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2278,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2279,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2280,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2281,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2282,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2283,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I feel generally disoriented or maybe unsteady.
+2284,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2285,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2286,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2287,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2288,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2289,I am a woman in my seventies. My blood pressure seemed normal. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2290,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2291,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2292,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2293,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2294,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2295,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2296,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2297,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2298,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2299,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2300,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2301,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2302,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2303,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2304,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2305,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I feel generally disoriented or maybe unsteady.
+2306,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2307,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2308,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2309,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2310,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2311,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2312,I am a man in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2313,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly. Part of my vision is missing.
+2314,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2315,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2316,I am a woman in my seventies. My blood pressure seemed high. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2317,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2318,I am a man in my sixties. My blood pressure seemed low. I have weakness in my arm. I have weakness in my leg.
+2319,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2320,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2321,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2322,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2323,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2324,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2325,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2326,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2327,I am a woman in my seventies. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2328,"I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2329,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2330,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2331,I am a man in my twenties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2332,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2333,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2334,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2335,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2336,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2337,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2338,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2339,I am a woman in my eighties. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2340,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2341,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2342,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2343,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2344,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2345,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2346,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2347,I am a woman in my fifties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2348,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my leg.
+2349,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2350,I am a woman in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2351,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2352,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2353,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2354,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2355,I am a woman in my sixties. My blood pressure seemed high. I have weakness in my arm. I am having trouble speaking clearly.
+2356,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm.
+2357,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2358,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2359,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2360,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2361,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2362,I am a woman in my eighties. My blood pressure seemed high. I am having trouble speaking clearly.
+2363,I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2364,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm.
+2365,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2366,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2367,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly. Part of my vision is missing.
+2368,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2369,I am a man in my seventies. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2370,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2371,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2372,I am a man in my eighties. My blood pressure seemed high. I have weakness in my leg.
+2373,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2374,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2375,"I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2376,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2377,"I am a woman in my sixties. My blood pressure seemed normal. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2378,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2379,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2380,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2381,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2382,I am a man in my fifties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2383,"I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Something else also feels wrong, but I cannot describe it clearly."
+2384,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2385,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. Part of my vision is missing.
+2386,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2387,I am a man in my fifties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2388,I am a man in my eighties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2389,I am a man in my fifties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2390,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2391,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2392,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2393,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2394,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2395,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2396,I am a woman in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2397,"I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. Something else also feels wrong, but I cannot describe it clearly."
+2398,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2399,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2400,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2401,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2402,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2403,I am a man in my thirties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2404,I am a man in my seventies. My blood pressure seemed low. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2405,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2406,I am a woman in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2407,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I am having trouble speaking clearly.
+2408,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2409,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2410,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2411,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2412,"I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2413,I am a woman in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2414,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2415,"I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2416,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2417,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2418,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2419,I am a man in my seventies. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2420,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2421,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2422,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2423,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2424,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm.
+2425,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2426,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2427,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2428,I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2429,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2430,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2431,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2432,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm.
+2433,"I am a woman in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2434,I am a woman in my seventies. My blood pressure seemed high. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2435,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I am having trouble speaking clearly.
+2436,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2437,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2438,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2439,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I feel generally disoriented or maybe unsteady.
+2440,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2441,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2442,I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2443,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2444,"I am a woman in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Something else also feels wrong, but I cannot describe it clearly."
+2445,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2446,I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2447,"I am a woman in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2448,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2449,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2450,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2451,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2452,I am a woman in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2453,I am a man in my fifties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2454,I am a woman in my eighties. My blood pressure seemed high. I have weakness in my arm.
+2455,I am a man in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2456,I am a man in my forties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2457,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2458,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2459,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2460,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2461,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2462,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2463,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2464,I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2465,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2466,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2467,I am a man in my eighties. My blood pressure seemed normal. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2468,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2469,I am a woman in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing.
+2470,I am a man in my sixties. My blood pressure seemed high. I have weakness in my arm. I feel generally disoriented or maybe unsteady.
+2471,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2472,"I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. Something else also feels wrong, but I cannot describe it clearly."
+2473,I am a man in my eighties. My blood pressure seemed high. I have weakness in my arm. I am having trouble speaking clearly.
+2474,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2475,I am a woman in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2476,"I am a woman in my seventies. My blood pressure seemed high. I am having trouble speaking clearly. Something else also feels wrong, but I cannot describe it clearly."
+2477,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2478,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2479,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I am having trouble speaking clearly.
+2480,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2481,I am a woman in my eighties. My blood pressure seemed high. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2482,I am a woman in my fifties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.
+2483,I am a woman in my eighties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. Part of my vision is missing.
+2484,I am a man in my nineties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2485,I am a man in my sixties. My blood pressure seemed normal. I feel weakness in my face. I am having trouble speaking clearly. Part of my vision is missing.
+2486,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2487,I am a man in my sixties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2488,I am a man in my fifties. My blood pressure seemed high. I feel generally disoriented or maybe unsteady.
+2489,"I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I feel generally disoriented or maybe unsteady. Something else also feels wrong, but I cannot describe it clearly."
+2490,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm. I have weakness in my leg.
+2491,I am a woman in my sixties. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly. I feel generally disoriented or maybe unsteady.
+2492,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I am having trouble speaking clearly.
+2493,I am a man in my eighties. My blood pressure seemed high. I am having trouble speaking clearly.
+2494,I am a man in my seventies. My blood pressure seemed high. I have weakness in my arm.
+2495,I am a man in my seventies. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg.
+2496,I am a woman in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. Part of my vision is missing. I feel generally disoriented or maybe unsteady.
+2497,I am a man in my eighties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my leg. I am having trouble speaking clearly.
+2498,I am a man in my forties. My blood pressure seemed high. I feel weakness in my face. I have weakness in my arm.
+2499,I am a man in my seventies. My blood pressure seemed normal. I feel weakness in my face. I have weakness in my arm. I have weakness in my leg. I feel generally disoriented or maybe unsteady.

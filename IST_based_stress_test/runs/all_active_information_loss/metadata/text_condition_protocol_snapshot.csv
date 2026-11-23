@@ -1,0 +1,32 @@
+section,condition,source_variable,included,information_level,mapping_or_logic,text_realization,notes
+Shared rules,All conditions,patient_id,Yes (output key only),Identifier,Preserve exactly; do not mention in text.,Not mentioned.,Used for merges and evaluation.
+Shared rules,All conditions,Forbidden information,No,Excluded,"Never include A, Y, Y0, Y1, true_tau, pseudo_outcome, treatment assignment, treatment effect, outcome, or inferred diagnoses.",Not mentioned.,"Do not add stroke, admission, or any context absent from X."
+Shared rules,All conditions,Narrative format,Yes,Style control,Use concise first-person statements in a fixed order.,I am ... / My blood pressure ... / I ...,Full and Sparse use identical wording for shared variables.
+Full,full,AGE,Yes,Exact,Use exact age in years.,I am [AGE] years old.,
+Full,full,SEX,Yes,Exact,M -> man; F -> woman.,I am a [man/woman].,
+Full,full,RSBP,Yes,Exact,Use exact numeric blood-pressure reading in mmHg.,My blood pressure reading was [RSBP] mmHg.,Same wording in Sparse.
+Full,full,RATRIAL,Yes,Exact medical status,Y -> present; N -> absent.,I have been told that I have atrial fibrillation. / I have not been told that I have atrial fibrillation.,
+Full,full,RVISINF,Yes,Exact imaging finding,Y -> infarct seen on scan; N -> no infarct seen on scan.,A scan showed an infarct. / A scan did not show an infarct.,Avoid CT wording to reduce register shift.
+Full,full,RHEP24,Yes,Exact treatment history,Y -> received heparin within prior 24 hours; N -> did not receive it.,I received heparin within the previous 24 hours. / I did not receive heparin within the previous 24 hours.,
+Full,full,RASP3,Yes,Exact medication history,Y -> took aspirin within prior 3 days; N -> did not take it.,I took aspirin within the previous 3 days. / I did not take aspirin within the previous 3 days.,
+Full and Sparse,full | sparse,RDEF1,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: I feel weakness in my face. / N: I do not feel weakness in my face. / C: I am not sure whether I feel weakness in my face.,Identical wording in Full  and Sparse .
+Full and Sparse,full | sparse,RDEF2,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: I have weakness in my arm. / N: I do not have weakness in my arm. / C: I am not sure whether I have weakness in my arm.,No laterality is available in the source data.
+Full and Sparse,full | sparse,RDEF3,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: I have weakness in my leg. / N: I do not have weakness in my leg. / C: I am not sure whether I have weakness in my leg.,No laterality is available in the source data.
+Full and Sparse,full | sparse,RDEF4,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: I am having trouble speaking clearly. / N: I am not having trouble speaking clearly. / C: I am not sure whether I am having trouble speaking clearly.,
+Full and Sparse,full | sparse,RDEF5,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: Part of my vision is missing. / N: I do not notice a problem with my vision. / C: I am not sure whether I have a vision problem.,
+Full and Sparse,full | sparse,RDEF6,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: I have trouble judging where things are around me. / N: I do not have trouble judging where things are around me. / C: I am not sure whether I have trouble judging where things are around me.,
+Full and Sparse,full | sparse,RDEF7,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: I have trouble with balance and coordination. / N: My balance and coordination are normal. / C: I am not sure whether my balance and coordination are normal.,
+Full and Sparse,full | sparse,RDEF8,Yes,Detailed lay description,Y -> symptom; N -> explicit denial; C -> uncertainty.,Y: I notice another unusual neurological problem. / N: I do not notice another unusual neurological problem. / C: I am not sure whether I have another unusual neurological problem.,
+Sparse,sparse,"AGE, SEX, RSBP",Yes,Exact self-report,Use exactly the same strings as Full .,I am [AGE] years old. I am a [man/woman]. My blood pressure reading was [RSBP] mmHg.,Sparse is a literal text subset of Full for shared variables.
+Sparse,sparse,"RATRIAL, RVISINF, RHEP24, RASP3",No,Intentional omission,Do not mention these variables.,No sentence is added.,The primary information removed from Full.
+General,general,AGE,Yes,Coarsened,18–29 -> twenties; 30–39 -> thirties; 40–49 -> forties; 50–59 -> fifties; 60–69 -> sixties; 70–79 -> seventies; 80–89 -> eighties; 90–99 -> nineties.,I am in my [age decade].,No exact age.
+General,general,SEX,Yes,Exact,M -> man; F -> woman.,I am a [man/woman].,
+General,general,RSBP,Yes,Coarsened,RSBP < 100 -> low; 100–139 -> normal; RSBP >= 140 -> high.,My blood pressure seemed [low/normal/high].,No numeric reading.
+General,general,"RATRIAL, RVISINF, RHEP24, RASP3",No,Excluded,Do not mention these variables.,No sentence is added.,
+General,general,RDEF1,Yes - positives only,Coarse lay description,Y -> include; N or C -> omit.,I feel weakness in my face.,
+General,general,RDEF2,Yes - positives only,Coarse lay description,Y -> include; N or C -> omit.,I have weakness in my arm.,
+General,general,RDEF3,Yes - positives only,Coarse lay description,Y -> include; N or C -> omit.,I have weakness in my leg.,
+General,general,RDEF4,Yes - positives only,Coarse lay description,Y -> include; N or C -> omit.,I am having trouble speaking clearly.,
+General,general,RDEF5,Yes - positives only,Coarse lay description,Y -> include; N or C -> omit.,Part of my vision is missing.,
+General,general,RDEF6 and RDEF7,Yes - positives only; grouped,Coarse lay description,If either is Y include one grouped sentence. N and C are omitted.,I feel generally disoriented or maybe unsteady.,
+General,general,RDEF8,Yes - positives only,Coarse lay description,Y -> include; N or C -> omit.,"Something else also feels wrong, but I cannot describe it clearly.",
